@@ -5,3 +5,6 @@ A Nothing design-inspired music app for Android, made in Flutter.
 
 ## Usage
 There are no compiled APK files yet, if you want to use the app, you have to compile it yourself. There is also no music playing functionality yet so I don't really know if you want to do that :)
+
+## Disclaimer
+This project is not an official Nothing® app. It is not approved by or associated with Nothing® or any of its subsidiaries in any way.
