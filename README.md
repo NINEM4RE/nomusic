@@ -1,16 +1,8 @@
-# no_music
 
-A new Flutter project.
+<img width="1833" height="1024" alt="banner" src="https://github.com/user-attachments/assets/5bf6cd73-a1b7-47dd-af92-d22661c1b10c" />
 
-## Getting Started
+# NoMusic
+A nothing design-inspired music app for Android, made in Flutter.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+There are no compiled APK files yet, if you want to use the app, you have to compile it yourself. There is also no music playing functionality yet so I don't really know if you want to do that :)
