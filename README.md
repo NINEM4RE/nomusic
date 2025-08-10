@@ -1,6 +1,6 @@
-# NoMusic
 <img width="916" height="512" alt="banner" src="https://github.com/user-attachments/assets/5bf6cd73-a1b7-47dd-af92-d22661c1b10c" />
 
+# NoMusic
 A Nothing design-inspired music app for Android, made in Flutter.
 
 ## Usage
